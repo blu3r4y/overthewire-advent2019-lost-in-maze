@@ -1,0 +1,4 @@
+parse>=1.12
+funcy>=1.13
+numpy>=1.17
+matplotlib>=3.1
